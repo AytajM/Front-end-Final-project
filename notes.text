@@ -1,0 +1,5 @@
+ window.scrollTo({top:ref.current.getBoundingClientRect().y,behavior:"smooth"})
+ lom css
+
+ .catch case
+
